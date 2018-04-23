@@ -1,2 +1,2 @@
-# samuelch.github.io
+# samuel.cf
 files of samuel.cf
