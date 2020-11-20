@@ -4,11 +4,16 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-padding-top: 90px;
+  padding-top: 90px;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1 {
   text-transform: uppercase;
+  letter-spacing: 3px;
+  font-weight: 400;
+}
+
+h2, h3, h4, h5, h6 {
   letter-spacing: 3px;
   font-weight: 400;
 }
