@@ -77,10 +77,10 @@ hr {
   font-weight: 400;
 }
 
-.top-left {
+.left {
   position: absolute;
-  top: 8px;
-  left: 16px;
+  top: 40%;
+  left: 5%;
 }
 
 .img-border {
