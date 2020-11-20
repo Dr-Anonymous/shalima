@@ -72,10 +72,15 @@ hr {
 }
 
 .intro-text {
-  text-transform: uppercase;
   letter-spacing: 1px;
   font-size: 1.25em;
   font-weight: 400;
+}
+
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
 }
 
 .img-border {
