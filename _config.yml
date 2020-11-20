@@ -1,0 +1,12 @@
+url: https://samuel.cf
+title: Samuel
+description: Dr Samuel Manoj Cherukuri
+timezone: Asia/Calcutta
+exclude: [exclude]
+keep_files: [keep]
+include: [include]
+permalink: pretty
+plugins:
+  - jemoji
+  - jekyll-sitemap
+  - jekyll-redirect-from
