@@ -1,2 +1,2 @@
 # samuel.cf
-files of samuel.cf
+files of orthosam.com/shalima/
